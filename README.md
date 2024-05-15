@@ -1,4 +1,4 @@
-Novidade de criar uma variável que recebe a subtração de dois inputs
+# Novidade de criar uma variável que recebe a subtração de dois inputs
 
 quantidade de calor
 quantidadeCalor = float(input("Quantidade de calor em Calorias: ")) 
@@ -6,7 +6,6 @@ quantidadeCalor = float(input("Quantidade de calor em Calorias: "))
 tempInicial = float(input("Temperatura inicial: ")) 	
 tempFinal = float(input("Temperatura final: ")) 	
 
-# novidade de criar uma variavel que recebe  a subtração de dois inputs delta = final - inicial	
 variacaoTemperatura = tempFinal - tempInicial
 
 #capacidade térmica = quantidade de calor/variação da temperatura
